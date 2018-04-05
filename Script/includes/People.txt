@@ -1,0 +1,10 @@
+INSERT INTO people(user_id, salutation, first_name, last_name, street_address_1, street_address_2, city, province, postal_code, primary_phone_number, secondary_phone_number, fax_number, preferred_contact_method)
+VALUES('darrenp' , 'Mr.' , 'Darren' , 'Puffer' , '255 durham college cres' , '' , 'ON' , 'Oshawa' , 'L1E4J6' , '9058529215' , '9058645201' , '' , 'E');
+INSERT INTO people(user_id, salutation, first_name, last_name, street_address_1, street_address_2, city, province, postal_code, primary_phone_number, secondary_phone_number, fax_number, preferred_contact_method)
+VALUES('nickc' , 'Mr.' , 'Nick' , 'Carpenter' , '234 jeanne street' , '' , 'ON' , 'Midland' , 'L4R2J3' , ''9054551352' ' , '' , '' , 'E');
+INSERT INTO people(user_id, salutation, first_name, last_name, street_address_1, street_address_2, city, province, postal_code, primary_phone_number, secondary_phone_number, fax_number, preferred_contact_method)
+VALUES('mattheww' , 'Mr.' , 'Matthew' , 'Wierzbicki' , '99 Greenfield Cres' , '' , 'ON' , 'Whitby' , 'L1N7G2' , '9059658956' , '' , '' , 'E');
+INSERT INTO people(user_id, salutation, first_name, last_name, street_address_1, street_address_2, city, province, postal_code, primary_phone_number, secondary_phone_number, fax_number, preferred_contact_method)
+VALUES('kyreneh' , 'Ms.' , 'Kyrene' , 'Hemington' , '15 Bagshaw Cres' , '' , 'ON' , 'Uxbridge' , 'L9P0A9' , '9059605135' , '' , '' , 'E');
+INSERT INTO people(user_id, salutation, first_name, last_name, street_address_1, street_address_2, city, province, postal_code, primary_phone_number, secondary_phone_number, fax_number, preferred_contact_method)
+VALUES('simons' , 'Mr.' , 'Simon' , 'Stoll' , '25 Jane Dale Cres' , '' , 'ON' , 'Oshawa' , 'L5S5D5' , '9058529215' , '9058645201' , '' , 'E');

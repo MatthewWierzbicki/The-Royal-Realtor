@@ -1,0 +1,29 @@
+Hostname=127.0.0.1
+Databsename=group10_db
+Database User=group10_admin
+Database Password=zdshx4zs4j
+
+ Username	   	   Password
+-----------       -----------
+/******** Admins **********/
+carpentern         webd3201
+hemingtonk	       webd3201
+wierzbickim        webd3201
+simons             webd3201
+darrenp            webd3201
+
+
+/**** Pending-Agents ******/
+praylowv		   webd3201
+
+/******** Agents **********/
+joachimm		   webd3201
+
+/******** Clients **********/
+steenot		       webd3201
+
+/**** Disabled-Clients ****/
+steenot		       webd3201
+
+/*** Incomplete-Clients ***/
+terhaarc		   webd3201
